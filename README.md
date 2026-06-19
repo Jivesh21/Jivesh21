@@ -9,7 +9,6 @@
 ## 🚀 About Me
 
 * 🎓 B.Tech Computer Science Student
-* ☕ Strong foundation in Java
 * 🌱 Currently learning React & MERN Stack
 * 🔧 Building real-world projects
 * 📚 Exploring Full-Stack Development
