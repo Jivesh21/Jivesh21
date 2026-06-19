@@ -1,8 +1,6 @@
 <!-- ==================== BANNER ==================== -->
 
-<p align="center">
-  <img src="YOUR_BANNER_URL_HERE" width="100%" alt="Jivesh Sharma Banner"/>
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Jivesh Sharma</h1>
 
@@ -10,13 +8,6 @@
 Full Stack Developer (MERN) | Java Developer | Machine Learning Enthusiast
 </h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+in+Progress;Building+Projects+Every+Day;Java+%7C+JavaScript+%7C+Python;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Things" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-</p>
 
 ---
 
@@ -177,11 +168,11 @@ Machine Learning
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/jivesh-sharma-9aa2b1268/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Jivesh21">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
