@@ -28,31 +28,31 @@ Full Stack Developer (MERN) | Java Developer | Machine Learning Enthusiast
 
 ### Languages
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=java,js,python,html,css" />
 </p>
 
 ### Frontend
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=react,html,css,js" />
 </p>
 
 ### Backend
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### Database
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
 ### Tools
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 </p>
 
