@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Jivesh Sharma
 
-### 💻 Java Developer | MERN Stack Learner | B.Tech CSE Student
+### 💻 MERN Stack Learner | B.Tech CSE Student
 
 > Building projects, learning every day, and working toward becoming a Full-Stack Developer.
 
