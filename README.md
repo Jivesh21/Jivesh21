@@ -1,103 +1,200 @@
-# 👋 Hey, I'm Jivesh Sharma
+<!-- ==================== BANNER ==================== -->
 
-### 💻 MERN Stack Learner | B.Tech CSE Student
+<p align="center">
+  <img src="YOUR_BANNER_URL_HERE" width="100%" alt="Jivesh Sharma Banner"/>
+</p>
 
-> Building projects, learning every day, and working toward becoming a Full-Stack Developer.
+<h1 align="center">Hi 👋, I'm Jivesh Sharma</h1>
+
+<h3 align="center">
+Full Stack Developer (MERN) | Java Developer | Machine Learning Enthusiast
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+in+Progress;Building+Projects+Every+Day;Java+%7C+JavaScript+%7C+Python;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-* 🎓 B.Tech Computer Science Student
-* 🌱 Currently learning React & MERN Stack
-* 🔧 Building real-world projects
-* 📚 Exploring Full-Stack Development
-* 🎯 Goal: Software Developer
+* 🎓 B.Tech Computer Science Engineering Student
+* 💻 Interested in Full Stack Development
+* 🌱 Currently learning React, Node.js, Express.js and MongoDB
+* ☕ Skilled in Java
+* 🐍 Worked on Machine Learning projects using Python
+* 🚲 Built a Bike Sharing Rental Prediction project
+* 📚 Continuously learning and building projects
+* 🎯 Looking for Software Development opportunities
 
 ---
 
-## 🛠 Tech Stack
+# 💻 Tech Stack
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css" />
+</p>
 
-### Frameworks & Tools
+### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,js" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+</p>
 
 ---
 
-## 📖 Current Journey
+# 🚲 Featured Project
 
-```txt
-✓ Java
-✓ HTML
-✓ CSS
-✓ JavaScript
-✓ Git & GitHub
+## Bike Sharing Rental Prediction
 
-► React
-► Node.js
-► Express.js
-► MongoDB
+Machine Learning project developed to predict bike rental demand using historical and environmental data.
 
-Next:
-► DSA
-► Full-Stack Projects
-► Open Source
+### Features
+
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis
+* Feature Engineering
+* Linear Regression Model
+* Data Visualization
+* Model Evaluation
+
+### Technologies Used
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+```text
+Pandas
+NumPy
+Matplotlib
+Scikit-Learn
+Machine Learning
 ```
 
 ---
 
-## 🔥 Featured Projects
+# 📂 Projects
 
-### 🌐 Portfolio Website
+### 🌐 Frontend Projects
 
-Personal portfolio showcasing skills and projects.
-
-### 🎨 Frontend Projects
-
-Collection of HTML, CSS & JavaScript projects.
-
-### ⚛️ React Projects
-
-Learning React through practical applications.
+* Responsive Portfolio Website
+* Landing Pages
+* JavaScript Applications
 
 ### ☕ Java Projects
 
-Java programs and problem-solving exercises.
+* OOP Based Applications
+* Console Management Systems
+* Problem Solving Programs
+
+### ⚛️ React Projects
+
+* Dynamic User Interfaces
+* API Integration Projects
+* Component-Based Applications
 
 ---
 
-## 📊 GitHub Stats
+# 📚 Currently Learning
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+```text
+✅ HTML
+✅ CSS
+✅ JavaScript
+✅ Java
+✅ Git & GitHub
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+🚀 React.js
+🚀 Node.js
+🚀 Express.js
+🚀 MongoDB
 
----
-
-## 🌍 Connect With Me
-
-* LinkedIn: https://www.linkedin.com/in/jivesh-sharma-9aa2b1268/
-* GitHub: https://github.com/Jivesh21
-
----
-
-### 💭 Developer Mindset
-
-```java
-while(true){
-    Learn();
-    Build();
-    Improve();
-    Repeat();
-}
+📖 Data Structures & Algorithms
+📖 Full Stack Development
 ```
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+# 🌱 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> "Consistency beats intensity. Small progress every day creates extraordinary results."
+
+---
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true" />
+</p>
