@@ -1,11 +1,9 @@
-<p align="center">
-  <img src="YOUR_BANNER_URL_HERE" width="100%" alt="Jivesh Sharma Banner"/>
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Jivesh Sharma</h1>
 
 <h3 align="center">
-Full Stack Developer (MERN) | Java | Python | Machine Learning
+Full Stack Developer (MERN) | Java | Python |
 </h3>
 
 <p align="center">
