@@ -26,7 +26,7 @@ B.Tech CSE Student | Full Stack Developer (MERN)
 * 💻 Interested in Full Stack Development
 * 🌱 Currently learning React, Node.js, Express.js and MongoDB
 * ☕ Knowledge of Java and Core Programming Concepts
-* 🐍 Familiar Python
+* 🐍 Familiar with Python
 * 🚲 Built a Bike Sharing Rental Prediction project
 * 📚 Passionate about building projects and learning new technologies
 * 🎯 Looking for Software Development opportunities
