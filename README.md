@@ -1,13 +1,17 @@
+<!-- ==================== ANIMATED BANNER ==================== -->
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=220&section=header&text=Jivesh%20Sharma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20Python%20%7C%20MERN&descAlignY=60"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Jivesh Sharma</h1>
 
 <h3 align="center">
-Full Stack Developer (MERN) | Java | Python |
+B.Tech CSE Student | Full Stack Developer (MERN)
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+in+Progress;Java+%7C+JavaScript+%7C+Python;React+%7C+Node.js+%7C+MongoDB;Building+Projects+Every+Day;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Building+Projects+Every+Day;Java+%7C+JavaScript+%7C+Python;React+%7C+Node.js+%7C+MongoDB;Machine+Learning+Enthusiast;Open+to+Software+Development+Opportunities" />
 </p>
 
 <p align="center">
@@ -21,8 +25,8 @@ Full Stack Developer (MERN) | Java | Python |
 * 🎓 B.Tech Computer Science Engineering Student
 * 💻 Interested in Full Stack Development
 * 🌱 Currently learning React, Node.js, Express.js and MongoDB
-* ☕ Java
-* 🐍 Python
+* ☕ Knowledge of Java and Core Programming Concepts
+* 🐍 Familiar Python
 * 🚲 Built a Bike Sharing Rental Prediction project
 * 📚 Passionate about building projects and learning new technologies
 * 🎯 Looking for Software Development opportunities
@@ -34,19 +38,19 @@ Full Stack Developer (MERN) | Java | Python |
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,python,html,css" />
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css&perline=5" />
 </p>
 
 ### Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,js" />
+<img src="https://skillicons.dev/icons?i=react,html,css,js&perline=4" />
 </p>
 
 ### Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express&perline=2" />
 </p>
 
 ### Database
@@ -58,14 +62,24 @@ Full Stack Developer (MERN) | Java | Python |
 ### Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&perline=4" />
 </p>
 
 ---
 
-# 🚲 Featured Project
+# 🎯 Current Focus
 
-## Bike Sharing Rental Prediction
+* Full Stack MERN Development
+* React.js
+* Backend Development
+* Data Structures & Algorithms
+* Building Real World Projects
+
+---
+
+# 🚀 Featured Project
+
+## 🚲 Bike Sharing Rental Prediction
 
 Machine Learning project developed to predict bike rental demand using historical and environmental data.
 
@@ -84,37 +98,11 @@ Machine Learning project developed to predict bike rental demand using historica
 <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-```text
-Pandas
-NumPy
-Matplotlib
-Scikit-Learn
-Machine Learning
-```
+<p align="center">
+Pandas • NumPy • Matplotlib • Scikit-Learn • Machine Learning
+</p>
 
 🔗 Repository Link: ADD_YOUR_PROJECT_LINK
-
----
-
-# 📂 Projects
-
-### 🌐 Frontend Projects
-
-* Portfolio Website
-* Landing Pages
-* JavaScript Applications
-
-### ☕ Java Projects
-
-* OOP Based Applications
-* Console Management Systems
-* Problem Solving Programs
-
-### ⚛️ React Projects
-
-* Dynamic User Interfaces
-* API Integration
-* Component-Based Applications
 
 ---
 
@@ -156,7 +144,7 @@ Machine Learning
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Jivesh21&theme=tokyonight&no-frame=true&row=1&column=6" />
@@ -197,5 +185,7 @@ Machine Learning
 <div align="center">
 
 ### 🚀 Thanks for visiting my profile!
+
+⭐ If you like my work, consider following my journey.
 
 </div>
