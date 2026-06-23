@@ -1,13 +1,13 @@
 <!-- ==================== CYBER BANNER ==================== -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:8A2BE2,50:00BFFF,100:00FF7F&text=JIVESH%20SHARMA&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER%20|%20JAVA%20|%20MERN%20|%20ML&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:8A2BE2,50:00BFFF,100:00FF7F&text=JIVESH%20SHARMA&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER%20|%20JAVA%20|%20REACT&descAlignY=60"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Jivesh Sharma</h1>
 
 <h3 align="center">
-B.Tech CSE Student | Full Stack Developer (MERN) | Java | Python | Machine Learning
+B.Tech CSE Student | Full Stack Developer (MERN) | Java | Python |
 </h3>
 
 <p align="center">
