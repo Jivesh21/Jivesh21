@@ -1,21 +1,33 @@
-<!-- ==================== ANIMATED BANNER ==================== -->
+<!-- ==================== CYBER BANNER ==================== -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=220&section=header&text=Jivesh%20Sharma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20Python%20%7C%20MERN&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:8A2BE2,50:00BFFF,100:00FF7F&text=JIVESH%20SHARMA&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER%20|%20JAVA%20|%20MERN%20|%20ML&descAlignY=60"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Jivesh Sharma</h1>
 
 <h3 align="center">
-B.Tech CSE Student | Full Stack Developer (MERN)
+B.Tech CSE Student | Full Stack Developer (MERN) | Java | Python | Machine Learning
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Building+Projects+Every+Day;Java+%7C+JavaScript+%7C+Python;React+%7C+Node.js+%7C+MongoDB;Machine+Learning+Enthusiast;Open+to+Software+Development+Opportunities" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Building+Projects+Every+Day;Java+%7C+JavaScript+%7C+Python;React+%7C+Node.js+%7C+MongoDB;Machine+Learning+Enthusiast;Open+to+Software+Development+Opportunities" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Jivesh21&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+<a href="https://github.com/Jivesh21">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jivesh-sharma-9aa2b1268/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Jivesh21&style=for-the-badge&color=blueviolet"/>
+</p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
 </p>
 
 ---
@@ -23,13 +35,13 @@ B.Tech CSE Student | Full Stack Developer (MERN)
 # 🚀 About Me
 
 * 🎓 B.Tech Computer Science Engineering Student
-* 💻 Interested in Full Stack Development
-* 🌱 Currently learning React, Node.js, Express.js and MongoDB
+* 💻 Passionate about Full Stack Development
+* 🌱 Currently learning React.js, Node.js, Express.js and MongoDB
 * ☕ Knowledge of Java and Core Programming Concepts
-* 🐍 Familiar with Python
-* 🚲 Built a Bike Sharing Rental Prediction project
-* 📚 Passionate about building projects and learning new technologies
-* 🎯 Looking for Software Development opportunities
+* 🐍 Familiar with Python for Data Analysis and Machine Learning
+* 🚲 Developed a Bike Sharing Rental Prediction Project
+* 📚 Continuously building projects and improving development skills
+* 🎯 Seeking opportunities to grow as a Software Developer
 
 ---
 
@@ -67,13 +79,12 @@ B.Tech CSE Student | Full Stack Developer (MERN)
 
 ---
 
-# 🎯 Current Focus
+# ⚡ Currently Building
 
-* Full Stack MERN Development
-* React.js
-* Backend Development
-* Data Structures & Algorithms
-* Building Real World Projects
+* 🚀 React Projects
+* 🚀 MERN Stack Applications
+* 🚀 Data Structures & Algorithms
+* 🚀 Machine Learning Projects
 
 ---
 
@@ -81,16 +92,21 @@ B.Tech CSE Student | Full Stack Developer (MERN)
 
 ## 🚲 Bike Sharing Rental Prediction
 
-Machine Learning project developed to predict bike rental demand using historical and environmental data.
+A Machine Learning project developed to predict bike rental demand using historical and environmental data.
 
-### Features
+### Key Highlights
 
-* Data Cleaning & Preprocessing
-* Exploratory Data Analysis
-* Feature Engineering
-* Linear Regression Model
-* Data Visualization
-* Model Evaluation
+✔ Data Cleaning & Preprocessing
+
+✔ Exploratory Data Analysis
+
+✔ Feature Engineering
+
+✔ Linear Regression Model
+
+✔ Data Visualization
+
+✔ Model Evaluation
 
 ### Technologies Used
 
@@ -102,27 +118,15 @@ Machine Learning project developed to predict bike rental demand using historica
 Pandas • NumPy • Matplotlib • Scikit-Learn • Machine Learning
 </p>
 
-🔗 Repository Link: ADD_YOUR_PROJECT_LINK
+🔗 Repository: ADD_YOUR_REPOSITORY_LINK
 
 ---
 
-# 📚 Currently Learning
+# 🏆 GitHub Achievements
 
-```text
-✅ HTML
-✅ CSS
-✅ JavaScript
-✅ Java
-✅ Git & GitHub
-
-🚀 React.js
-🚀 Node.js
-🚀 Express.js
-🚀 MongoDB
-
-📖 Data Structures & Algorithms
-📖 Full Stack Development
-```
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Jivesh21&theme=radical&no-frame=true&row=1&column=7"/>
+</p>
 
 ---
 
@@ -144,19 +148,21 @@ Pandas • NumPy • Matplotlib • Scikit-Learn • Machine Learning
 
 ---
 
-# 🏆 GitHub Achievements
+# 🌱 Contribution Activity
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Jivesh21&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jivesh21&theme=react-dark&hide_border=true&area=true"/>
 </p>
 
 ---
 
-# 🌱 Contribution Activity
+# 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jivesh21&theme=tokyo-night&hide_border=true" />
+<img src="https://raw.githubusercontent.com/Jivesh21/Jivesh21/output/github-contribution-grid-snake-dark.svg"/>
 </p>
+
+> ⚠️ Snake animation requires GitHub Actions setup to work.
 
 ---
 
@@ -178,7 +184,9 @@ Pandas • NumPy • Matplotlib • Scikit-Learn • Machine Learning
 
 # 💡 Quote
 
-> "Consistency beats intensity. Small progress every day creates extraordinary results."
+> "First, solve the problem. Then, write the code."
+
+— John Johnson
 
 ---
 
@@ -186,6 +194,6 @@ Pandas • NumPy • Matplotlib • Scikit-Learn • Machine Learning
 
 ### 🚀 Thanks for visiting my profile!
 
-⭐ If you like my work, consider following my journey.
+⭐ Building projects, learning daily, and growing one commit at a time.
 
 </div>
