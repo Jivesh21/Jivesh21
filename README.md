@@ -117,8 +117,7 @@ HTML • CSS • JavaScript
 🌐 Live Demo:
 https://job-application-tracker-one-weld.vercel.app
 
-💻 GitHub Repository:
-YOUR_REPO_LINK
+
 
 ---
 
