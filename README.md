@@ -88,39 +88,50 @@ B.Tech CSE Student | Full Stack Developer (MERN) | Java | Python |
 
 ---
 
-# 🚀 Featured Project
+# 🚀 Featured Projects
+
+## 💼 Job Application Tracker
+
+A modern job application management tool built to help users organize and track job applications through different stages of the hiring process.
+
+### Features
+
+✔ Kanban Board View
+
+✔ Table View
+
+✔ Search & Filtering
+
+✔ Job Status Tracking
+
+✔ Priority Management
+
+✔ Local Storage Persistence
+
+✔ Responsive Design
+
+### Tech Stack
+
+HTML • CSS • JavaScript
+
+🌐 Live Demo:
+https://job-application-tracker-one-weld.vercel.app
+
+💻 GitHub Repository:
+YOUR_REPO_LINK
+
+---
 
 ## 🚲 Bike Sharing Rental Prediction
 
-A Machine Learning project developed to predict bike rental demand using historical and environmental data.
+Machine Learning project developed to predict bike rental demand using historical and environmental data.
 
-### Key Highlights
+### Tech Stack
 
-✔ Data Cleaning & Preprocessing
+Python • Pandas • NumPy • Matplotlib • Scikit-Learn
 
-✔ Exploratory Data Analysis
-
-✔ Feature Engineering
-
-✔ Linear Regression Model
-
-✔ Data Visualization
-
-✔ Model Evaluation
-
-### Technologies Used
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-<p align="center">
-Pandas • NumPy • Matplotlib • Scikit-Learn • Machine Learning
-</p>
-
-🔗 Repository: ADD_YOUR_REPOSITORY_LINK
-
----
+💻 GitHub Repository:
+YOUR_REPO_LINK
 
 # 🏆 GitHub Achievements
 
@@ -143,10 +154,13 @@ Pandas • NumPy • Matplotlib • Scikit-Learn • Machine Learning
 # 📈 Most Used Languages
 
 <p align="center">
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jivesh21&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jivesh21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
----
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css,react,nodejs,mongodb" />
+</p>
+
 
 # 🌱 Contribution Activity
 
