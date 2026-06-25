@@ -90,7 +90,7 @@ B.Tech CSE Student | Full Stack Developer (MERN) | Java | Python |
 
 # 🚀 Featured Projects
 
-## 💼 Job Application Tracker
+## 💼 Job Board
 
 A modern job application management tool built to help users organize and track job applications through different stages of the hiring process.
 
@@ -115,7 +115,7 @@ A modern job application management tool built to help users organize and track 
 HTML • CSS • JavaScript
 
 🌐 Live Demo:
-https://job-application-tracker-one-weld.vercel.app
+https://job-board-one-weld.vercel.app/
 
 
 
