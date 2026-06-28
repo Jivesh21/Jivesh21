@@ -86,9 +86,9 @@ I'm a **B.Tech Computer Science & Engineering** student passionate about buildin
 
 # 🚀 Featured Projects
 
-## 💼 Job Board
+## 💼 Hire Flow
 
-A responsive Job Board application that helps users organize and manage job applications efficiently.
+A responsive Hire Flow application that helps users organize and manage job applications efficiently.
 
 ### Features
 
@@ -106,7 +106,7 @@ A responsive Job Board application that helps users organize and manage job appl
 
 ### Live Demo
 
-👉 https://job-board-one-weld.vercel.app/
+👉https://hire-flow-one-weld.vercel.app/
 
 ---
 
