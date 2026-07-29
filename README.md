@@ -50,12 +50,23 @@ I'm a **Computer Science Engineering student** passionate about building modern,
 
 I enjoy designing backend architectures, developing secure REST APIs, and creating applications that solve real-world problems. My long-term vision is to combine **Artificial Intelligence** with full-stack development to build intelligent, production-ready software.
 
-> 🚀 **Currently:** Mastering MERN Stack Development  
+> 🚀 **Currently:** Mastering MERN Stack Development
 > 🤖 **Next Goal:** Building AI-powered web applications using modern AI tools and LLMs.
 
 ---
 
 ## 🚀 About Me
+
+<table>
+<tr>
+<td width="220" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/light.svg">
+  <img alt="Jivesh Sharma portrait" src="assets/light.svg" width="200">
+</picture>
+</td>
+<td valign="top">
 
 - 🎓 B.Tech Computer Science Engineering Student
 - 💻 Building modern full-stack applications using the MERN Stack
@@ -64,37 +75,37 @@ I enjoy designing backend architectures, developing secure REST APIs, and creati
 - 🤖 Exploring AI integration for future web applications
 - 🎯 Goal: Become a Full-Stack & AI Engineer building impactful software
 
+</td>
+</tr>
+</table>
+
 ---
+
 ## ⚙️ Tech Stack & Tools
 
 <div align="center">
 
 ### 💻 Frontend
-
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 
 <br><br>
 
 ### ⚙️ Backend
-
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
 <br><br>
 
 ### 🗄️ Database
-
 <img src="https://skillicons.dev/icons?i=mongodb" />
 
 <br><br>
 
 ### 💻 Programming Languages
-
 <img src="https://skillicons.dev/icons?i=java,javascript,python" />
 
 <br><br>
 
 ### 🛠️ Tools & Platforms
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vite" />
 
 </div>
@@ -119,7 +130,6 @@ I enjoy designing backend architectures, developing secure REST APIs, and creati
 A modern **MERN Stack** application for tracking job applications, interviews, and hiring progress with a clean and intuitive interface.
 
 #### ✨ Features
-
 - Job Application Tracking
 - Interview Management
 - Status Dashboard
@@ -127,13 +137,12 @@ A modern **MERN Stack** application for tracking job applications, interviews, a
 - REST API Architecture
 
 #### 🛠️ Built With
-
 `React` • `Node.js` • `Express.js` • `MongoDB`
 
-🔗 **Live Demo**  
+🔗 **Live Demo**
 <https://hire-flow-one-weld.vercel.app/>
 
-🔗 **Repository**  
+🔗 **Repository**
 <https://github.com/Jivesh21/HireFlow>
 
 ---
@@ -143,7 +152,6 @@ A modern **MERN Stack** application for tracking job applications, interviews, a
 My personal developer portfolio showcasing my projects, technical skills, certifications, and learning journey.
 
 #### ✨ Features
-
 - Responsive Design
 - Modern UI
 - Project Showcase
@@ -151,13 +159,12 @@ My personal developer portfolio showcasing my projects, technical skills, certif
 - Interactive Animations
 
 #### 🛠️ Built With
-
 `React` • `JavaScript` • `CSS`
 
-🔗 **Live Website**  
+🔗 **Live Website**
 <https://portfolio.jiveshsharma2220.workers.dev/>
 
-🔗 **Repository**  
+🔗 **Repository**
 <https://github.com/Jivesh21/Portfolio>
 
 ---
@@ -167,7 +174,6 @@ My personal developer portfolio showcasing my projects, technical skills, certif
 A Machine Learning project that predicts bike rental demand using historical and environmental datasets.
 
 #### ✨ Features
-
 - Data Cleaning
 - Feature Engineering
 - Model Training
@@ -175,13 +181,13 @@ A Machine Learning project that predicts bike rental demand using historical and
 - Prediction Analysis
 
 #### 🛠️ Built With
-
 `Python` • `Pandas` • `NumPy` • `Scikit-learn`
 
-🔗 **Repository**  
+🔗 **Repository**
 <https://github.com/Jivesh21/bike-sharing-rental-prediction>
 
 ---
+
 ## 📚 Currently Learning
 
 <div align="center">
@@ -217,15 +223,16 @@ A Machine Learning project that predicts bike rental demand using historical and
 
 <div align="center">
 
-<img width="48%" src="https://YOUR-VERCEL-URL.vercel.app/api?username=Jivesh21&show_icons=true&theme=react&hide_border=true&count_private=true" />
-
-<img width="40%" src="https://YOUR-VERCEL-URL.vercel.app/api/top-langs/?username=Jivesh21&layout=compact&theme=react&hide_border=true" />
+<img width="48%" src="https://YOUR-VERCEL-URL.vercel.app/api?username=Jivesh21&show_icons=true&hide_border=true&bg_color=050b14&title_color=7ef4ff&icon_color=3ddc97&text_color=dbe7f2&count_private=true" />
+<img width="40%" src="https://YOUR-VERCEL-URL.vercel.app/api/top-langs/?username=Jivesh21&layout=compact&hide_border=true&bg_color=050b14&title_color=7ef4ff&text_color=dbe7f2" />
 
 <br><br>
 
-<img width="55%" src="https://streak-stats.demolab.com?user=Jivesh21&theme=react&hide_border=true" />
+<img width="55%" src="https://streak-stats.demolab.com?user=Jivesh21&hide_border=true&background=050b14&ring=7ef4ff&fire=3ddc97&currStreakLabel=7ef4ff&sideLabels=dbe7f2&dates=7a8aa0" />
 
 </div>
+
+> ⚠️ Replace `YOUR-VERCEL-URL` with your self-hosted `github-readme-stats` deployment from Phase 3. Note the `theme=` params were removed in favor of explicit `bg_color`/`title_color`/etc. hex values — this locks the cards to your exact navy/cyan/emerald palette instead of a generic preset theme.
 
 ---
 
@@ -233,7 +240,7 @@ A Machine Learning project that predicts bike rental demand using historical and
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Jivesh21&theme=algolia&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Jivesh21&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" />
 
 </div>
 
@@ -243,29 +250,20 @@ A Machine Learning project that predicts bike rental demand using historical and
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jivesh21&theme=react-dark&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jivesh21&hide_border=true&bg_color=050b14&color=7ef4ff&line=3ddc97&point=dbe7f2&area=true&area_color=3ddc97" width="95%" />
 
 </div>
 
 ---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Jivesh21/Jivesh21/output/snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Jivesh21/Jivesh21/output/snake-light.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/Jivesh21/Jivesh21/output/snake-dark.svg"
-    width="95%"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jivesh21/Jivesh21/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jivesh21/Jivesh21/output/snake-light.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Jivesh21/Jivesh21/output/snake-dark.svg" width="95%" />
 </picture>
 
 </div>
@@ -302,22 +300,24 @@ A Machine Learning project that predicts bike rental demand using historical and
 <div align="center">
 
 <a href="https://www.linkedin.com/in/jivesh-sharma-9aa2b1268/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0f2a3d?style=for-the-badge&logo=linkedin&logoColor=7ef4ff&labelColor=050b14" alt="LinkedIn"/>
 </a>
-
+&nbsp;
 <a href="https://portfolio.jiveshsharma2220.workers.dev/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-0f2a3d?style=for-the-badge&logo=vercel&logoColor=7ef4ff&labelColor=050b14" alt="Portfolio"/>
 </a>
-
+&nbsp;
 <a href="mailto:jivesh.official22@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Jivesh21">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-0f2a3d?style=for-the-badge&logo=gmail&logoColor=7ef4ff&labelColor=050b14" alt="Email"/>
 </a>
 
 </div>
+
+<!--
+  Note: the original brief specified "No GitHub badge" for this row, since your
+  GitHub profile itself IS this page — a badge linking back to itself is redundant.
+  Removed the GitHub badge that had crept back in here.
+-->
 
 ---
 
@@ -325,7 +325,7 @@ A Machine Learning project that predicts bike rental demand using historical and
 
 <div align="center">
 
-> **"First, solve the problem. Then, write the code."**  
+> **"First, solve the problem. Then, write the code."**
 > — John Johnson
 
 </div>
@@ -341,11 +341,12 @@ A Machine Learning project that predicts bike rental demand using historical and
 </div>
 
 ---
+
 ## 📊 Profile Views
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Jivesh21&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Jivesh21&label=Profile+Views&color=0f2a3d&style=for-the-badge&labelColor=050b14" alt="Profile Views"/>
 
 </div>
 
@@ -381,7 +382,7 @@ If you have an interesting idea or opportunity, feel free to reach out!
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:1F6FEB&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050b14,100:0a1830&height=120&section=footer"/>
 
 ### ⭐ Thanks for visiting my profile!
 
