@@ -1,25 +1,14 @@
-<div align="center">
-
-<img src="assets/banner.svg" alt="Jivesh Sharma Banner" width="100%" />
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/jivesh-sharma-9aa2b1268/">
-  <img src="https://img.shields.io/badge/LinkedIn-0f2a3d?style=for-the-badge&logo=linkedin&logoColor=7ef4ff&labelColor=050b14" alt="LinkedIn"/>
-</a>
-
-&nbsp;
-
-<a href="https://portfolio.jiveshsharma2220.workers.dev/">
-  <img src="https://img.shields.io/badge/Portfolio-0f2a3d?style=for-the-badge&logo=vercel&logoColor=7ef4ff&labelColor=050b14" alt="Portfolio"/>
-</a>
-
-&nbsp;
-
-<a href="mailto:jivesh.official22@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0f2a3d?style=for-the-badge&logo=gmail&logoColor=7ef4ff&labelColor=050b14" alt="Email"/>
-</a>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/jivesh-sharma-9aa2b1268/">
+    <img src="https://img.shields.io/badge/LinkedIn-0f2a3d?style=for-the-badge&logo=linkedin&logoColor=7ef4ff&labelColor=050b14" alt="LinkedIn"/>
+  </a>
+  <a href="https://portfolio.jiveshsharma2220.workers.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-0f2a3d?style=for-the-badge&logo=vercel&logoColor=7ef4ff&labelColor=050b14" alt="Portfolio"/>
+  </a>
+  <a href="mailto:jivesh.official22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0f2a3d?style=for-the-badge&logo=gmail&logoColor=7ef4ff&labelColor=050b14" alt="Email"/>
+  </a>
+</p>
 <br><br>
 
 <img
