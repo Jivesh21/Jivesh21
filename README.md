@@ -35,9 +35,8 @@
 <br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=7EF4FF&center=true&vCenter=true&width=900&lines=Building+Modern+MERN+Applications;Designing+Scalable+Backend+Systems;Creating+Clean+REST+APIs;Learning+Today.+Building+Tomorrow.;Future+AI-Powered+Web+Developer"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=7EF4FF&center=true&vCenter=true&width=900&lines=Building+Modern+MERN+Applications;Crafting+Scalable+Backend+Systems;Designing+Clean+REST+APIs;Exploring+Artificial+Intelligence;Always+Learning+%E2%80%A2+Always+Building"
 alt="Typing SVG" />
-
 </div>
 
 ---
@@ -206,7 +205,7 @@ A Machine Learning project that predicts bike rental demand using historical and
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 current goals
 
 - 🚀 Build **5+ production-ready MERN Stack projects**
 - 💼 Secure a **Software Development Internship**
