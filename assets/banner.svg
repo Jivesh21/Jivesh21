@@ -6179,7 +6179,7 @@
 </g>
 <text x="46" y="76" font-size="30" font-weight="700" fill="#dbe7f2">Jivesh Sharma</text>
 <text x="46" y="104" font-size="14" letter-spacing="1" fill="#7ef4ff"></text>
-<rect class="cursor" x="510" y="120" width="9" height="16" fill="#7ef4ff"/></text>
+<rect class="cursor" x="510" y="120" width="9" height="16" fill="#7ef4ff"/>
 <g class="termwin" transform="translate(46,118)">
 <rect x="0" y="0" width="560" height="326" rx="14" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.09)" stroke-width="1"/>
 <rect x="0" y="0" width="560" height="38" rx="14" fill="rgba(255,255,255,0.03)"/>
