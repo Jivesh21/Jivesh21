@@ -43,7 +43,7 @@ alt="Typing SVG" />
 
 # 👋 Hi, I'm Jivesh Sharma
 
-### MERN Stack Developer • Backend Enthusiast • AI Explorer
+### MERN Stack Developer • Backend-Focused • AI Enthusiast
 
 I'm a **Computer Science Engineering student** passionate about building modern, scalable web applications with the **MERN Stack**.
 
@@ -117,8 +117,7 @@ I enjoy designing backend architectures, developing secure REST APIs, and creati
 - ⚡ Designing secure and scalable REST APIs
 - 🔐 Learning Authentication & Authorization (JWT, RBAC)
 - 🧠 Strengthening Data Structures & Algorithms
-- 📚 Exploring System Design and Backend Best Practices
-- 🤖 Preparing to integrate AI into modern web applications
+- 📚 Exploring System Design and Backend Best Practices - 🤖 Exploring AI integration with modern web applications
 
 ---
 
@@ -311,12 +310,6 @@ A Machine Learning project that predicts bike rental demand using historical and
 </a>
 
 </div>
-
-<!--
-  Note: the original brief specified "No GitHub badge" for this row, since your
-  GitHub profile itself IS this page — a badge linking back to itself is redundant.
-  Removed the GitHub badge that had crept back in here.
--->
 
 ---
 
