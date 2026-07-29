@@ -40,11 +40,14 @@ alt="Typing Animation"/>
 
 # 👋 Hi, I'm Jivesh Sharma
 
-### Backend-Focused Computer Science Student
+### MERN Stack Developer • Backend Enthusiast • Future AI Engineer
 
-I'm passionate about building scalable backend applications using **Node.js**, **Express.js**, and **MongoDB**. I enjoy creating clean REST APIs, designing maintainable backend architectures, and continuously improving my development skills.
+I'm a **Computer Science Engineering student** passionate about building modern full-stack web applications with the **MERN Stack**.
 
----
+I enjoy creating scalable backend systems, designing clean REST APIs, and developing applications that solve real-world problems. My long-term goal is to combine **AI** with web development to build intelligent, production-ready software.
+
+> 🚀 **Currently:** Mastering MERN Stack Development  
+> 🤖 **Next Goal:** Building AI-powered applications with LLMs and modern AI tools
 
 ## 🚀 About Me
 
