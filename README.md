@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Email-0f2a3d?style=for-the-badge&logo=gmail&logoColor=7ef4ff&labelColor=050b14" alt="Email"/>
   </a>
 </p>
-<br><br>
+<br>
 
 <img
 src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=7EF4FF&center=true&vCenter=true&width=700&lines=Building+production-grade+backend+systems;Node.js+%C2%B7+Express.js+%C2%B7+MongoDB;Designing+APIs+that+scale;Currently+Building:+HireFlow"
