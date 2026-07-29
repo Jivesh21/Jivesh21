@@ -6189,7 +6189,7 @@
 <circle cx="56" cy="19" r="5.5" fill="#28c840"/>
 <text x="280.0" y="24" text-anchor="middle" font-size="12" fill="#7a8aa0">profile.sh --live</text>
 <g transform="translate(486,9)"><rect width="58" height="20" rx="10" fill="rgba(61,220,151,0.12)" stroke="#3ddc97" stroke-width="1"/><circle class="live-dot" cx="14" cy="10" r="4" fill="#3ddc97"/><text x="34" y="14" text-anchor="middle" font-size="10" font-weight="600" fill="#3ddc97">LIVE</text></g>
-<g transform="translate(20,58)" class="type-cmd">
+<g transform="translate(20,22)" class="type-cmd">
 <text x="0" y="12" font-size="13" fill="#7ef4ff">$ </text>
 <g class="typewrap"><rect class="mask" x="0" y="0" width="0" height="20" fill="none"/></g>
 <clipPath id="cmdclip"><rect class="mask" x="0" y="0" width="0" height="20"/></clipPath>
