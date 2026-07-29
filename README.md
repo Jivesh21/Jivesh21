@@ -4,7 +4,7 @@
 
 <br>
 
-<table align="center">
+<table>
 <tr>
 
 <td align="center">
@@ -13,11 +13,15 @@
 </a>
 </td>
 
+<td width="15"></td>
+
 <td align="center">
 <a href="https://portfolio.jiveshsharma2220.workers.dev/">
 <img src="https://img.shields.io/badge/Portfolio-0f2a3d?style=for-the-badge&logo=vercel&logoColor=7ef4ff&labelColor=050b14" alt="Portfolio"/>
 </a>
 </td>
+
+<td width="15"></td>
 
 <td align="center">
 <a href="mailto:jivesh.official22@gmail.com">
@@ -31,8 +35,8 @@
 <br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=7EF4FF&center=true&vCenter=true&width=700&lines=Building+production-grade+backend+systems;Node.js+•+Express.js+•+MongoDB;Designing+clean+REST+APIs;Currently+Building:+HireFlow"
-alt="Typing Animation"/>
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=7EF4FF&center=true&vCenter=true&width=900&lines=Building+Modern+MERN+Applications;Designing+Scalable+Backend+Systems;Creating+Clean+REST+APIs;Learning+Today.+Building+Tomorrow.;Future+AI-Powered+Web+Developer"
+alt="Typing SVG" />
 
 </div>
 
@@ -40,56 +44,71 @@ alt="Typing Animation"/>
 
 # 👋 Hi, I'm Jivesh Sharma
 
-### MERN Stack Developer • Backend Enthusiast • Future AI Engineer
+### MERN Stack Developer • Backend Enthusiast • AI Explorer
 
-I'm a **Computer Science Engineering student** passionate about building modern full-stack web applications with the **MERN Stack**.
+I'm a **Computer Science Engineering student** passionate about building modern, scalable web applications with the **MERN Stack**.
 
-I enjoy creating scalable backend systems, designing clean REST APIs, and developing applications that solve real-world problems. My long-term goal is to combine **AI** with web development to build intelligent, production-ready software.
+I enjoy designing backend architectures, developing secure REST APIs, and creating applications that solve real-world problems. My long-term vision is to combine **Artificial Intelligence** with full-stack development to build intelligent, production-ready software.
 
 > 🚀 **Currently:** Mastering MERN Stack Development  
-> 🤖 **Next Goal:** Building AI-powered applications with LLMs and modern AI tools
+> 🤖 **Next Goal:** Building AI-powered web applications using modern AI tools and LLMs.
+
+---
+
 ## 🚀 About Me
 
 - 🎓 B.Tech Computer Science Engineering Student
-- 💻 Building full-stack applications using the **MERN Stack**
-- ⚙️ Passionate about backend architecture, REST APIs, and scalable web applications
-- 🌱 Currently learning Authentication, API Security, System Design, and Database Optimization
-- 🤖 Planning to integrate Artificial Intelligence into future projects
-- 🚀 Goal: Become a Full-Stack & AI Engineer building production-ready software
+- 💻 Building modern full-stack applications using the MERN Stack
+- ⚙️ Passionate about backend development and scalable architectures
+- 🌱 Currently learning Authentication, API Security, System Design and Database Optimization
+- 🤖 Exploring AI integration for future web applications
+- 🎯 Goal: Become a Full-Stack & AI Engineer building impactful software
 
-## 💻 Tech Stack
+---
+## ⚙️ Tech Stack & Tools
 
 <div align="center">
 
-### Frontend
+### 💻 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
-
-<br><br>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 
 <br><br>
 
-### Database
+### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-<br><br>
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,js,python"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
 <br><br>
 
-### Tools
+### 🗄️ Database
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
+<img src="https://skillicons.dev/icons?i=mongodb" />
+
+<br><br>
+
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=java,javascript,python" />
+
+<br><br>
+
+### 🛠️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vite" />
 
 </div>
+
+---
+
+## 🔥 Current Focus
+
+- 🚀 Building production-ready **MERN Stack** applications
+- ⚡ Designing secure and scalable REST APIs
+- 🔐 Learning Authentication & Authorization (JWT, RBAC)
+- 🧠 Strengthening Data Structures & Algorithms
+- 📚 Exploring System Design and Backend Best Practices
+- 🤖 Preparing to integrate AI into modern web applications
 
 ---
 
@@ -97,83 +116,188 @@ I enjoy creating scalable backend systems, designing clean REST APIs, and develo
 
 ### 🧭 HireFlow
 
-A full-stack MERN application for managing job applications, interviews, and hiring progress.
+A modern **MERN Stack** application for tracking job applications, interviews, and hiring progress with a clean and intuitive interface.
 
-**Tech Stack**
+#### ✨ Features
 
-`React` • `Node.js` • `Express` • `MongoDB`
+- Job Application Tracking
+- Interview Management
+- Status Dashboard
+- Responsive UI
+- REST API Architecture
 
-🔗 Live Demo:
-https://hire-flow-one-weld.vercel.app/
+#### 🛠️ Built With
 
-🔗 Repository:
-https://github.com/Jivesh21/HireFlow
+`React` • `Node.js` • `Express.js` • `MongoDB`
+
+🔗 **Live Demo**  
+<https://hire-flow-one-weld.vercel.app/>
+
+🔗 **Repository**  
+<https://github.com/Jivesh21/HireFlow>
 
 ---
 
-### 🌐 Portfolio
+### 🌐 Portfolio Website
 
-Personal developer portfolio showcasing projects, skills, and certifications.
+My personal developer portfolio showcasing my projects, technical skills, certifications, and learning journey.
 
-🔗 Live:
-https://portfolio.jiveshsharma2220.workers.dev/
+#### ✨ Features
 
-🔗 Repository:
-https://github.com/Jivesh21/Portfolio
+- Responsive Design
+- Modern UI
+- Project Showcase
+- Contact Section
+- Interactive Animations
+
+#### 🛠️ Built With
+
+`React` • `JavaScript` • `CSS`
+
+🔗 **Live Website**  
+<https://portfolio.jiveshsharma2220.workers.dev/>
+
+🔗 **Repository**  
+<https://github.com/Jivesh21/Portfolio>
 
 ---
 
 ### 🚲 Bike Sharing Rental Prediction
 
-Machine Learning project predicting bike rental demand using historical and environmental data.
+A Machine Learning project that predicts bike rental demand using historical and environmental datasets.
 
-🔗 Repository:
-https://github.com/Jivesh21/bike-sharing-rental-prediction
+#### ✨ Features
+
+- Data Cleaning
+- Feature Engineering
+- Model Training
+- Data Visualization
+- Prediction Analysis
+
+#### 🛠️ Built With
+
+`Python` • `Pandas` • `NumPy` • `Scikit-learn`
+
+🔗 **Repository**  
+<https://github.com/Jivesh21/bike-sharing-rental-prediction>
 
 ---
-
 ## 📚 Currently Learning
-
-- REST API Design
-- JWT Authentication
-- Role-Based Authorization
-- MongoDB Aggregation
-- Backend Security
-- System Design
-
----
-
-## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="48%" src="https://YOUR-VERCEL-URL.vercel.app/api?username=Jivesh21&show_icons=true&theme=react&hide_border=true"/>
-
-<img width="38%" src="https://YOUR-VERCEL-URL.vercel.app/api/top-langs/?username=Jivesh21&layout=compact&theme=react&hide_border=true"/>
-
-<br><br>
-
-<img width="48%" src="https://streak-stats.demolab.com?user=Jivesh21&theme=react&hide_border=true"/>
+| 🌱 Learning | 🚀 Next Step |
+|-------------|--------------|
+| MERN Stack Development | Docker & Containerization |
+| Authentication (JWT & OAuth) | AWS Cloud Basics |
+| REST API Design | Microservices Architecture |
+| Role-Based Access Control (RBAC) | CI/CD Pipelines |
+| MongoDB Aggregation Pipeline | Kubernetes |
+| Backend Security | AI Integration with Web Applications |
+| System Design Fundamentals | LLM Applications & AI Agents |
 
 </div>
 
 ---
 
+## 🎯 2026 Goals
+
+- 🚀 Build **5+ production-ready MERN Stack projects**
+- 💼 Secure a **Software Development Internship**
+- ☁️ Learn **Docker**, **AWS**, and deployment workflows
+- 🧠 Master **Backend Development** and **System Design**
+- 📖 Solve **300+ DSA problems**
+- 🤖 Build intelligent AI-powered web applications
+- 🌍 Contribute consistently to Open Source
+- 📈 Maintain an active GitHub profile
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="48%" src="https://YOUR-VERCEL-URL.vercel.app/api?username=Jivesh21&show_icons=true&theme=react&hide_border=true&count_private=true" />
+
+<img width="40%" src="https://YOUR-VERCEL-URL.vercel.app/api/top-langs/?username=Jivesh21&layout=compact&theme=react&hide_border=true" />
+
+<br><br>
+
+<img width="55%" src="https://streak-stats.demolab.com?user=Jivesh21&theme=react&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Jivesh21&theme=algolia&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jivesh21&theme=react-dark&hide_border=true" width="95%" />
+
+</div>
+
+---
 ## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jivesh21/Jivesh21/output/snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jivesh21/Jivesh21/output/snake-light.svg">
-<img src="https://raw.githubusercontent.com/Jivesh21/Jivesh21/output/snake-dark.svg" alt="Contribution Snake"/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Jivesh21/Jivesh21/output/snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Jivesh21/Jivesh21/output/snake-light.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Jivesh21/Jivesh21/output/snake-dark.svg"
+    width="95%"
+  />
 </picture>
 
 </div>
 
 ---
 
-## 📫 Connect
+## 🏅 Certifications
+
+<div align="center">
+
+| Certification | Platform |
+|---------------|----------|
+| 🎓 React JS | Unstop |
+| 💻 JavaScript Essentials | Cisco Networking Academy |
+| 🌐 Web Development | Internshala |
+| 📊 Data Science Simulation | Deloitte Forage |
+
+</div>
+
+---
+
+## 🌟 Beyond Coding
+
+- 💡 I enjoy building projects that solve real-world problems.
+- 📖 Always learning new technologies and backend concepts.
+- 🤝 Love collaborating with developers and contributing to open-source projects.
+- 🚀 Passionate about creating scalable web applications.
+- 🤖 Excited about the future of AI-powered software.
+
+---
+
+## 📫 Let's Connect
 
 <div align="center">
 
@@ -197,10 +321,70 @@ https://github.com/Jivesh21/bike-sharing-rental-prediction
 
 ---
 
+## 💬 Favorite Quote
+
 <div align="center">
 
-⭐ Thanks for visiting my profile.
+> **"First, solve the problem. Then, write the code."**  
+> — John Johnson
 
-**Building • Learning • Improving**
+</div>
+
+---
+
+## ⚡ Fun Fact
+
+<div align="center">
+
+💻 I enjoy building backend systems today, and my long-term goal is to create intelligent AI-powered applications that solve meaningful real-world problems.
+
+</div>
+
+---
+## 📊 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Jivesh21&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+
+</div>
+
+---
+
+## 🤝 Let's Build Something Amazing
+
+<div align="center">
+
+I'm always interested in collaborating on exciting projects involving:
+
+🚀 Full-Stack Web Development • ⚙️ Backend Engineering • 🤖 AI-Powered Applications • 🌐 Open Source
+
+If you have an interesting idea or opportunity, feel free to reach out!
+
+</div>
+
+---
+
+## 💭 Developer Philosophy
+
+<div align="center">
+
+> **"Great software isn't just about writing code—it's about solving real problems, continuously learning, and building solutions that make an impact."**
+
+</div>
+
+---
+
+<div align="center">
+
+## 💡 Building today with MERN.<br>Creating tomorrow with AI.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:1F6FEB&height=120&section=footer"/>
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to my repositories.
 
 </div>
