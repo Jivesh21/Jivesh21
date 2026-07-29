@@ -5,7 +5,7 @@
     .cursor { animation: blink 1s steps(1) infinite; }
     @keyframes blink { 0%,49% { opacity:1; } 50%,100% { opacity:0; } }
 
-    .cmdline { opacity:0; animation: cmdFade .01s linear 18s infinite; }
+   .cmdline { opacity:1; animation:none; }
     @keyframes cmdFade {
       0% { opacity:0; }
       3.3% { opacity:1; }
@@ -13,21 +13,21 @@
     }
 
     .typewrap { overflow:hidden; }
-    .type-cmd rect.mask { animation: typeCmd 1s steps(24) 18s infinite; }
+   .type-cmd rect.mask { animation:none; width:340px; }
     @keyframes typeCmd {
       0%, 3.3% { width:0; }
       12% { width:340px; }
       100% { width:340px; }
     }
 
-    .loadbar-fill { animation: loadFill 0.6s ease-out 18s infinite; }
+  .loadbar-fill { width:220px; opacity:1; }
     @keyframes loadFill {
       0%, 12% { width:0; opacity:1; }
       16% { width:220px; opacity:1; }
       19%, 100% { width:220px; opacity:0; }
     }
 
-    .termwin { opacity:0; transform: translateY(10px); animation: winIn .5s ease-out 18s infinite; transform-box: fill-box; }
+    .termwin { opacity:1; transform:translateY(0); animation:none; transform-box:fill-box; }
     @keyframes winIn {
       0%, 13% { opacity:0; transform: translateY(10px); }
       18%, 96% { opacity:1; transform: translateY(0); }
