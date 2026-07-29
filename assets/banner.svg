@@ -6178,8 +6178,8 @@
 <rect class="dot db12" x="240.59" y="320.73" width="2.22" height="2.22"/>
 </g>
 <text x="46" y="64" font-size="30" font-weight="700" fill="#dbe7f2">Jivesh Sharma</text>
-<text x="46" y="90" font-size="14" letter-spacing="1" fill="#7ef4ff">BACKEND DEVELOPER · NODE.JS · EXPRESS · MONGODB</text>
-<rect class="cursor" x="46" y="98" width="9" height="16" fill="#7ef4ff"/>
+<text x="46" y="92" font-size="14" letter-spacing="1" fill="#7ef4ff">MERN STACK DEVELOPER · BACKEND · AI ENTHUSIAST</text>
+<rect class="cursor" x="46" y="108" width="9" height="16" fill="#7ef4ff"/>
 <g class="termwin" transform="translate(46,118)">
 <rect x="0" y="0" width="560" height="326" rx="14" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.09)" stroke-width="1"/>
 <rect x="0" y="0" width="560" height="38" rx="14" fill="rgba(255,255,255,0.03)"/>
@@ -6230,7 +6230,7 @@
 <animate attributeName="opacity" from="0" to="1" begin="4.28s" dur="0.35s" fill="freeze" repeatCount="1"/>
 <animate attributeName="opacity" values="0;0;1;1;1;0" keyTimes="0;0.2378;0.2572;0.97;0.985;1" dur="18s" repeatCount="indefinite"/>
 <text x="0" y="0" font-size="10.8" letter-spacing="0.5" fill="#7a8aa0">Status...........</text>
-<text x="108" y="0" font-size="10.8" fill="#dbe7f2">Building Production APIs</text>
+<text x="108" y="0" font-size="10.8" fill="#dbe7f2">Building Modern MERN Applications</text>
 </g>
 <g class="sl5" style="opacity:0" transform="translate(20,229)">
 <animate attributeName="opacity" from="0" to="1" begin="4.70s" dur="0.35s" fill="freeze" repeatCount="1"/>
@@ -6242,7 +6242,7 @@
 <animate attributeName="opacity" from="0" to="1" begin="5.12s" dur="0.35s" fill="freeze" repeatCount="1"/>
 <animate attributeName="opacity" values="0;0;1;1;1;0" keyTimes="0;0.2844;0.3039;0.97;0.985;1" dur="18s" repeatCount="indefinite"/>
 <text x="0" y="0" font-size="10.8" letter-spacing="0.5" fill="#7a8aa0">Backend..........</text>
-<text x="108" y="0" font-size="10.8" fill="#dbe7f2">Node.js + Express</text>
+<text x="108" y="0" font-size="10.8" fill="#dbe7f2">Node.js • Express.js</text>
 </g>
 <g class="sl7" style="opacity:0" transform="translate(20,263)">
 <animate attributeName="opacity" from="0" to="1" begin="5.54s" dur="0.35s" fill="freeze" repeatCount="1"/>
