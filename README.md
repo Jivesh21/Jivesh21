@@ -109,11 +109,22 @@ Full-stack job application tracker — manage applications, track interview stag
 `React` `Node.js` `Express` `MongoDB`
 
 <!-- placeholder: replace # with your repo URL -->
-[Live Demo →](https://hire-flow-one-weld.vercel.app/)
-|
-[Repository →](https://github.com/Jivesh21/HireFlow)
+[View Repo →](#)
 
 </td>
+<td width="50%" valign="top">
+
+### ⚙️ Backend REST API Project
+A production-style backend service with JWT authentication, protected routes, and clean REST API architecture.
+
+`Node.js` `Express` `MongoDB` `JWT` `REST API`
+
+<!-- placeholder: replace # with your repo URL -->
+[View Repo →](#)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🌐 Portfolio Website
@@ -122,7 +133,7 @@ My personal developer portfolio — projects, experience, and a live playground 
 `React` `JavaScript` `CSS`
 
 <!-- placeholder: replace # with your repo URL -->
-[View Repo →](https://github.com/Jivesh21/Portfolio) · [Live Site →](https://portfolio.jiveshsharma2220.workers.dev/)
+[View Repo →](#) · [Live Site →](#)
 
 </td>
 <td width="50%" valign="top">
@@ -133,7 +144,7 @@ A data-driven prediction model estimating bike-sharing rental demand from histor
 `Python` `Data Analysis` `ML`
 
 <!-- placeholder: replace # with your repo URL -->
-[View Repo →](https://github.com/Jivesh21/bike-sharing-rental-prediction)
+[View Repo →](#)
 
 </td>
 </tr>
