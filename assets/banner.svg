@@ -6177,7 +6177,7 @@
 <rect class="dot db11" x="199.23" y="351.75" width="2.22" height="2.22"/>
 <rect class="dot db12" x="240.59" y="320.73" width="2.22" height="2.22"/>
 </g>
-<text y="64" y="76" font-size="30" font-weight="700" fill="#dbe7f2">Jivesh Sharma</text>
+<text x="46" y="76" font-size="30" font-weight="700" fill="#dbe7f2">Jivesh Sharma</text>
 <text y="92" y="104" font-size="14" letter-spacing="1" fill="#7ef4ff">MERN STACK DEVELOPER · BACKEND · AI ENTHUSIAST</text>
 <rect class="cursor" y="108" y="120" width="9" height="16" fill="#7ef4ff"/>
 <g class="termwin" transform="translate(46,118)">
