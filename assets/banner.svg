@@ -6193,7 +6193,7 @@
 <text x="0" y="12" font-size="13" fill="#7ef4ff">$ </text>
 <g class="typewrap"><rect class="mask" x="0" y="0" width="0" height="20" fill="none"/></g>
 <clipPath id="cmdclip"><rect class="mask" x="0" y="0" width="0" height="20"/></clipPath>
-<text x="16" y="12" font-size="13" fill="#dbe7f2" clip-path="url(#cmdclip)">profile.sh --live</text>
+<text x="16" y="12" font-size="13" fill="#dbe7f2" clip-path="url(#cmdclip)">  Backend Terminal</text>
 <rect class="mask cursor" x="14" y="0" width="7" height="15" fill="#7ef4ff" opacity="0.001"/>
 </g>
 <g transform="translate(20,86)">
