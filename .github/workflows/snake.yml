@@ -9,20 +9,17 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  snake:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake
-        uses: Platane/snk@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: Jivesh21
           outputs: |
-            dist/snake-dark.svg?palette=github-dark
-            dist/snake-light.svg?palette=github-light
+            dist/snake.svg?color_snake=#7ef4ff&color_dots=#0d1117,#16324f,#1f6aa5,#2fb8ff,#7ef4ff
 
-      - name: Deploy to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
