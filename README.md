@@ -251,19 +251,6 @@ A Machine Learning project that predicts bike rental demand using historical and
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jivesh21/Jivesh21/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jivesh21/Jivesh21/output/snake-light.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Jivesh21/Jivesh21/output/snake-dark.svg" width="95%" />
-</picture>
-
-</div>
-
----
 
 ## 🏅 Certifications
 
