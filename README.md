@@ -48,16 +48,14 @@ I enjoy creating scalable backend systems, designing clean REST APIs, and develo
 
 > 🚀 **Currently:** Mastering MERN Stack Development  
 > 🤖 **Next Goal:** Building AI-powered applications with LLMs and modern AI tools
-
 ## 🚀 About Me
 
 - 🎓 B.Tech Computer Science Engineering Student
-- 💻 Building **HireFlow** – Job Application Tracker
-- 🌱 Learning Authentication, API Security, System Design & Database Optimization
-- 🚀 Interested in Backend Development, Cloud & Scalable Systems
-- 🎯 Goal: Become a Backend Engineer at a product-based company
-
----
+- 💻 Building full-stack applications using the **MERN Stack**
+- ⚙️ Passionate about backend architecture, REST APIs, and scalable web applications
+- 🌱 Currently learning Authentication, API Security, System Design, and Database Optimization
+- 🤖 Planning to integrate Artificial Intelligence into future projects
+- 🚀 Goal: Become a Full-Stack & AI Engineer building production-ready software
 
 ## 💻 Tech Stack
 
