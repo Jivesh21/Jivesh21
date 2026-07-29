@@ -221,9 +221,9 @@ A Machine Learning project that predicts bike rental demand using historical and
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats-f8z06b144-jiveshsharma2220-6703s-projects.vercel.app/api?username=Jivesh21&show_icons=true&hide_border=true&hide_rank=true&bg_color=050b14&title_color=7ef4ff&icon_color=3ddc97&text_color=dbe7f2&count_private=true" />
+<img width="48%" src="https://github-readme-stats-ebon-theta-84.vercel.app/api?username=Jivesh21&show_icons=true&hide_border=true&hide_rank=true&bg_color=050b14&title_color=7ef4ff&icon_color=3ddc97&text_color=dbe7f2&count_private=true" />
 
-<img width="48%" src="https://github-readme-stats-f8z06b144-jiveshsharma2220-6703s-projects.vercel.app/api/top-langs/?username=Jivesh21&layout=compact&hide_border=true&bg_color=050b14&title_color=7ef4ff&text_color=dbe7f2" />
+<img width="48%" src="https://github-readme-stats-ebon-theta-84.vercel.app/api/top-langs/?username=Jivesh21&layout=compact&hide_border=true&bg_color=050b14&title_color=7ef4ff&text_color=dbe7f2" />
 
 <br><br>
 
